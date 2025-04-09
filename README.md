@@ -14,4 +14,4 @@ n1-questao1
 
 -Interação ao clicar em qualquer parte do item
 
-#Alune Vitor Kenzo Kanashiro RA(24026113)
+#Aluno Vitor Kenzo Kanashiro RA(24026113)
