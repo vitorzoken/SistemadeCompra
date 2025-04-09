@@ -1,8 +1,8 @@
 # Sistema de Compra
 
-##n1-questao1
+## n1-questao1
 
-#Funcionalidades implementadas
+# Funcionalidades implementadas
 -Lista de produtos exatamente como no enunciado
 
 -Imagens para cada produto
@@ -15,4 +15,4 @@
 
 -Interação ao clicar em qualquer parte do item
 
-#Aluno Vitor Kenzo Kanashiro RA(24026113)
+# Aluno Vitor Kenzo Kanashiro RA(24026113)
